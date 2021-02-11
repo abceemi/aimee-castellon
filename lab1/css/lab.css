@@ -1,7 +1,8 @@
 #aboutme{
   display: block;
-  border: solid pink 10px;
+  border: solid #efeae3 10px;
   text-align: center;
+  height:250px;
 }
 #aboutme a{
   color: black;
