@@ -26,7 +26,7 @@
   text-align: center;
 }
 
-#threeboxes, #threeboxes2, #threeboxes3{
+#threeboxes, #threeboxes2, #threeboxes3, #fourboxes{
   display: flex;
   width: 90%;
   padding-top: 25px;
@@ -44,7 +44,10 @@
 .column3 img{
   width: 100%;
 }
-.column, .column2, .column3{
+.columns img{
+  width: 100%;
+}
+.column, .column2, .column3, .columns{
   flex: 1;
 }
 .footer{
