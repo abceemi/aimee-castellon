@@ -1,17 +1,19 @@
 
 .header{
   display: flex;
-  text-align: center;
+
   margin-right: 40px;
 }
-
+.header h1{
+  text-align: center;
+}
 .nav{
   border: solid 10px black;
   text-align: center;
   font-family: arial;
   background-color: black;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 .nav h2, a{
   color: white;
@@ -50,11 +52,8 @@
   text-align: center;
   font-family: arial;
   background-color: black;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  word-spacing: 20px;
 }
-.footer a{
+.footer h1{
   color: grey;
   text-decoration: none;
   font-size: 10px;
