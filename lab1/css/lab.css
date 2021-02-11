@@ -1,8 +1,8 @@
 #aboutme{
   display: block;
-  border: solid #efeae3 10px;
+  border: solid #efeae3 20px;
   text-align: center;
-  height:260px;
+  height:275px;
 }
 #aboutme a{
   color: black;
