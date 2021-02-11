@@ -20,11 +20,11 @@
 .nav a:hover{
   color: #d1de44;
 }
-#description{
+.description{
   text-align: center;
 }
 
-#threeboxes, #threeboxes2{
+#threeboxes, #threeboxes2, #threeboxes3{
   display: flex;
   width: 90%;
   padding-top: 25px;
@@ -39,7 +39,10 @@
 .column2 img{
   width: 100%;
 }
-.column, .column2{
+.column3 img{
+  width: 100%;
+}
+.column, .column2, .column3{
   flex: 1;
 }
 .footer{
